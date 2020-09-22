@@ -1,5 +1,5 @@
 # Somatic Instability
-Repository for all code associated with the somatic instability analysis from the manuscript "Pathogenic Huntingtin Repeat Expansions in Patients with Frontotemporal Dementia and Amyotrophic Lateral Sclerosis"
+Repository for code associated with the somatic instability analysis from the manuscript "Pathogenic Huntingtin Repeat Expansions in Patients with Frontotemporal Dementia and Amyotrophic Lateral Sclerosis"
 
 Preprint: http://dx.doi.org/10.2139/ssrn.3652331
 
